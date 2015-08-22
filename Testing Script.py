@@ -1,6 +1,7 @@
 import random
 password = str("Failed")
 counter = 0
+print ("Yes")
 while(password == str("Failed")):
     j = random.randrange(1,170000)
     if (j == 100):
